@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion Blog</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string-array name="android_names">
+        <item> Magdalena </item>
+        <item> Rosquilla </item>
+        <item> Petisu </item>
+        <item> Yogur Helado </item>
+        <item> Bizcocho </item>
+        <item> Panal </item>
+        <item> Helado de Sandwich </item>
+        <item> Gominola </item>
+        <item> KitKat </item>
+        <item> Piruleta </item>
+    </string-array>
+</resources>
